@@ -191,3 +191,286 @@ Cannot render console from 194.228.11.65! Allowed networks: 127.0.0.1, ::1, 127.
 Processing by StaticPagesController#about as HTML
   Rendered static_pages/about.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:37:54 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 354ms (Views: 343.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-df4bab2c0fb9a0a8cf3cd601c4483c2456d288fd39bea690af724aa7b8607f71.css?body=1" for 194.228.11.167 at 2017-05-18 08:37:55 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:38:11 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-ecf21ecdc4c7acfe3a5d1b3071f2f81af2e0753e52a95a173d4de1c4409da03d.css?body=1" for 194.228.11.167 at 2017-05-18 08:38:11 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:48:23 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (97.6ms)
+Completed 200 OK in 154ms (Views: 153.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bike-89498dbc76260f44ea23eb35884f6bfc8decb681bd1d72c500cb08de9ccf9f39.jpg" for 194.228.11.167 at 2017-05-18 08:48:24 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:54:58 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-a8210becac904b797203a761c248e037cb324b2bf7f6ca61cb0b0c40d5d0ad83.css?body=1" for 194.228.11.167 at 2017-05-18 08:54:58 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:55:12 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-3e9d466d0f86887c81aee586062337d03f0c6776779153a9502f223d4b3bd652.css?body=1" for 194.228.11.167 at 2017-05-18 08:55:12 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:55:28 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 30ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-854ff33830abc8d4388b25ab8a7b6d77e75cfc3bb391667acf15e7d2a6194ae3.css?body=1" for 194.228.11.167 at 2017-05-18 08:55:28 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:56:54 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 48ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...-color: #F4FEFE": expected ";", was ");"):
+    3: <head>
+    4:   <title>Workspace</title>
+    5:   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrat.min.css">
+    6:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    7:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    8:   <script src="https://maxcdn.bootstratcdn.com/bootstrap/3.3.5/js/bootstarp.min.js"></script>
+    9:   <meta name="viewport" content="width=device-width, initial-scale=1">
+  app/assets/stylesheets/static_pages.scss:8
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___3859436042322150990_70138242817540'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.1ms)
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:57:04 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 31ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-47c91e530d9593f9d3e6047f348ff0364e6c941ed9da7a121db3f90fb48a453f.css?body=1" for 194.228.11.167 at 2017-05-18 08:57:04 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:58:07 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 40ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-ccd447a8a71c4bcecac7cbf1c54610e530d3c69be060ef1459f388e48e9e4373.css?body=1" for 194.228.11.167 at 2017-05-18 08:58:07 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:59:04 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 63ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-4afcf8c786f7ecc47f78206b9cadea3ab9f312bac2f98e5dcbc7f28de0a341ea.css?body=1" for 194.228.11.167 at 2017-05-18 08:59:04 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 08:59:29 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 40ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-cc165c58736d1a1df8085f89b1507950bdd662fd90a2a533e8c8bb2c9dcb47ac.css?body=1" for 194.228.11.167 at 2017-05-18 08:59:30 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:00:09 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 49ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-ddb5be62c54dccb5b68c7ceaca29b17201897e8bc84fd4c067a118e84be6e1af.css?body=1" for 194.228.11.167 at 2017-05-18 09:00:09 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:01:06 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 41ms (Views: 40.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-85b151e463fe9aac9b2034e21b20d6efce54b1989250043adac628ec8d5b704c.css?body=1" for 194.228.11.167 at 2017-05-18 09:01:07 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:01:37 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 42ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-43ed007d12a0544c012c38e8c2762b498023dbf16faa85a7aea0ff73141fa43e.css?body=1" for 194.228.11.167 at 2017-05-18 09:01:38 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:01:55 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 30ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-502a54f7173f970930e3d5f5f97da49805f5bc3127b89d15bec7fbf209ce9398.css?body=1" for 194.228.11.167 at 2017-05-18 09:01:56 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:04:51 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 34ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-8453c49827148c321af5fee77bc966d5aa9286bd187a0487a24da47d25cfbb62.css?body=1" for 194.228.11.167 at 2017-05-18 09:04:51 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:11:53 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 62ms (Views: 61.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-75ebef3b8e6c5e8db0f0ba14fa8d822b92ad87f10219a7946cfa4faf41e22075.css?body=1" for 194.228.11.167 at 2017-05-18 09:11:54 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:12:39 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "	color: ": expected expression (e.g. 1px, bold), was ";"):
+    3: <head>
+    4:   <title>Workspace</title>
+    5:   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrat.min.css">
+    6:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    7:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    8:   <script src="https://maxcdn.bootstratcdn.com/bootstrap/3.3.5/js/bootstarp.min.js"></script>
+    9:   <meta name="viewport" content="width=device-width, initial-scale=1">
+  app/assets/stylesheets/static_pages.scss:28
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___3859436042322150990_70138243889120'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (35.2ms)
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:12:49 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "	color: ": expected expression (e.g. 1px, bold), was ";"):
+    3: <head>
+    4:   <title>Workspace</title>
+    5:   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrat.min.css">
+    6:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    7:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    8:   <script src="https://maxcdn.bootstratcdn.com/bootstrap/3.3.5/js/bootstarp.min.js"></script>
+    9:   <meta name="viewport" content="width=device-width, initial-scale=1">
+  app/assets/stylesheets/static_pages.scss:28
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___3859436042322150990_70138243889120'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (39.9ms)
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:13:05 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "	color: ": expected expression (e.g. 1px, bold), was ";"):
+    3: <head>
+    4:   <title>Workspace</title>
+    5:   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrat.min.css">
+    6:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    7:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    8:   <script src="https://maxcdn.bootstratcdn.com/bootstrap/3.3.5/js/bootstarp.min.js"></script>
+    9:   <meta name="viewport" content="width=device-width, initial-scale=1">
+  app/assets/stylesheets/static_pages.scss:28
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___3859436042322150990_70138244196420'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (32.1ms)
+
+
+Started GET "/" for 194.228.11.167 at 2017-05-18 09:13:22 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-ed173c27280350e47a6ea7534d6ce2f9b891f4906f391b6b8c5484b5e766b646.css?body=1" for 194.228.11.167 at 2017-05-18 09:13:22 +0000
+Cannot render console from 194.228.11.167! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
